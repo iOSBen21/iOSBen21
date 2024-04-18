@@ -1,4 +1,4 @@
-### 저의 경쟁상대는 어제의 나 입니다.
+## 저의 경쟁상대는 어제의 나 입니다.
 전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면, 1.01의 365승 인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOSBen21&show_icons=true&theme=radical)
 
 
-## 📤 How to contact
+### 📤 How to contact:
 <img src="https://img.shields.io/badge/gseonghoonj@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/gseonghoonj" target="_blank"><img src="https://img.shields.io/badge/gseonghoonj-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
 
