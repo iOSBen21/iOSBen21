@@ -1,5 +1,5 @@
 ### 저의 경쟁상대는 어제의 나 입니다.
-전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면, 1.01의 365승인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋
+전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면, 1.01의 365승 인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋
 
 <!--
 **iOSBen21/iOSBen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
