@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/seonghoonj@icloud.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+## 📤 How to contact:
+<img src="https://img.shields.io/badge/gseonghoonj@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/gseonghoonj" target="_blank"><img src="https://img.shields.io/badge/gseonghoonj-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
