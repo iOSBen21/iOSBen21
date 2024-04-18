@@ -1,8 +1,10 @@
 <div align="center">
 
-### <center>저의 경쟁상대는 어제의 나 입니다.</center>
-<center>전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면,<br>
-1.01의 365승 인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋</center><br><br><br>
+### 저의 경쟁상대는 어제의 나 입니다.
+전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면,<br>
+1.01의 365승 인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋
+    
+<img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=000000"/><br><br><br>
 
 <!--
 **iOSBen21/iOSBen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 <br><br>
 
 
-#### <center>📤 How to contact:</center>
+#### 📤 How to contact:
 
 <img src="https://img.shields.io/badge/gseonghoonj@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/gseonghoonj" target="_blank"><img src="https://img.shields.io/badge/gseonghoonj-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 <br><br>
