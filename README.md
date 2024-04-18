@@ -4,7 +4,7 @@
 전날보다 1%씩 자신의 행동을 개선하여 그것을 1년동안 지속한다면,<br>
 1.01의 365승 인 37.8이 됩니다. 그런 개발자가 되고 싶습니다. 👋
     
-<img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=000000"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/><br><br><br>
+<img src="https://img.shields.io/badge/iOS-FFFFFF?style=flat-square&logo=iOS&logoColor=000000"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SwiftUI-0b5394?style=flat-square&logo=Swift&logoColor=FFFFFF"/> <br><br>
 
 <!--
 **iOSBen21/iOSBen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
