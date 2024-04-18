@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/seonghoonj@icloud.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
